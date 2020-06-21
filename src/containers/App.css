@@ -1,0 +1,14 @@
+
+/*
+@font-face {
+    font-family: 'Super Liam Sans Extreme Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Super Liam Sans Extreme Regular'), url('SuperLiamSansExtreme-Regular(2).woff') format('woff');
+} */
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  color: #e8fdf5;
+}

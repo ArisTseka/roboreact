@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/roboreact/static/css/main.af23cfb8.chunk.css",
+    "main.js": "/roboreact/static/js/main.a3b4bc83.chunk.js",
+    "main.js.map": "/roboreact/static/js/main.a3b4bc83.chunk.js.map",
+    "runtime-main.js": "/roboreact/static/js/runtime-main.6147bcaa.js",
+    "runtime-main.js.map": "/roboreact/static/js/runtime-main.6147bcaa.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboreact/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e5b3756d.chunk.js": "/roboreact/static/js/2.e5b3756d.chunk.js",
+    "static/js/2.e5b3756d.chunk.js.map": "/roboreact/static/js/2.e5b3756d.chunk.js.map",
+    "index.html": "/roboreact/index.html",
+    "precache-manifest.cf6d4656f9604de75c5eb55a25d83cc7.js": "/roboreact/precache-manifest.cf6d4656f9604de75c5eb55a25d83cc7.js",
+    "service-worker.js": "/roboreact/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboreact/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.af23cfb8.chunk.css.map": "/roboreact/static/css/main.af23cfb8.chunk.css.map",
+    "static/js/2.e5b3756d.chunk.js.LICENSE.txt": "/roboreact/static/js/2.e5b3756d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6147bcaa.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e5b3756d.chunk.js",
+    "static/css/main.af23cfb8.chunk.css",
+    "static/js/main.a3b4bc83.chunk.js"
+  ]
+}
